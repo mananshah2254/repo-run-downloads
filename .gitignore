@@ -1,0 +1,4 @@
+*.dmg
+*.exe
+*.blockmap
+.DS_Store
