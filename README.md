@@ -2,14 +2,14 @@
 
 Repo Run checks what a public GitHub or GitLab project needs, compares those requirements with your computer, and helps you prepare and run supported projects after you review the commands.
 
-## Download v0.1.0 preview
+## Download v0.1.1 preview
 
 | Computer | Installer |
 | --- | --- |
-| Mac with Apple silicon (M1 or newer, ARM64) | [Download Mac DMG](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.0/Repo-Run-0.1.0-mac-arm64.dmg) |
-| Windows on Intel/AMD x64 | [Download Windows installer](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.0/Repo-Run-0.1.0-win-x64.exe) |
+| Mac with Apple silicon (M1 or newer, ARM64) | [Download Mac DMG](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.1/Repo-Run-0.1.1-mac-arm64.dmg) |
+| Windows on Intel/AMD x64 | [Download Windows installer](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.1/Repo-Run-0.1.1-win-x64.exe) |
 
-[Release notes and checksums](https://github.com/mananshah2254/repo-run-downloads/releases/tag/v0.1.0) · [All releases](https://github.com/mananshah2254/repo-run-downloads/releases)
+[Release notes and checksums](https://github.com/mananshah2254/repo-run-downloads/releases/tag/v0.1.1) · [All releases](https://github.com/mananshah2254/repo-run-downloads/releases)
 
 ## Preview limitations
 
