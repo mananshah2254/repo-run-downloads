@@ -13,7 +13,7 @@ Repo Run checks what a public GitHub or GitLab project needs, compares those req
 
 ## Preview limitations
 
-- **Google sign-in is still in testing.** The hosted account service is not yet open to everyone. Repository checks require sign-in; people without test access can explore the sample and computer inventory. Do not treat this as a generally usable stable release.
+- **Google sign-in is open to Google users.** Repository checks require sign-in; people can explore the sample and computer inventory first. This is still a development preview rather than a stable release.
 - Both installers are **unsigned**, and the Mac app is **not notarized**. Your operating system may warn or block installation. A signed release is still pending; do not disable system security protections.
 - Mac launch, Google sign-in, account history synchronization, and persistence after restart have been verified. The Windows installer was built but has not yet been tested on a Windows computer.
 - This release has no Intel Mac or Windows ARM64 installer. Those targets are supported by the build configuration but are not included here.
