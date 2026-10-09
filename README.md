@@ -2,21 +2,21 @@
 
 Repo Run checks what a public GitHub or GitLab project needs, compares those requirements with your computer, and helps you prepare and run supported projects after you review the commands.
 
-## Download v0.1.1 preview
+## Download preview installers
 
 | Computer | Installer |
 | --- | --- |
 | Mac with Apple silicon (M1 or newer, ARM64) | [Download Mac DMG](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.1-macos/Repo-Run-0.1.1-mac-arm64.dmg) |
 | Intel Mac (x64) | [Download Intel Mac DMG](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.1-macos/Repo-Run-0.1.1-mac-x64.dmg) |
-| Windows on Intel/AMD x64 | [Download Windows installer](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.1/Repo-Run-0.1.1-win-x64.exe) |
+| Windows on Intel/AMD x64 | [Download Windows v0.1.2 installer with corrected desktop icon](https://github.com/mananshah2254/repo-run-downloads/releases/download/v0.1.2-windows/Repo-Run-0.1.2-win-x64.exe) |
 
-[Mac release notes and checksums](https://github.com/mananshah2254/repo-run-downloads/releases/tag/v0.1.1-macos) · [Windows release notes and checksums](https://github.com/mananshah2254/repo-run-downloads/releases/tag/v0.1.1) · [All releases](https://github.com/mananshah2254/repo-run-downloads/releases)
+[Mac release notes and checksums](https://github.com/mananshah2254/repo-run-downloads/releases/tag/v0.1.1-macos) · [Windows release notes and checksums](https://github.com/mananshah2254/repo-run-downloads/releases/tag/v0.1.2-windows) · [All releases](https://github.com/mananshah2254/repo-run-downloads/releases)
 
 ## Preview limitations
 
 - **Google sign-in is open to Google users.** Repository checks require sign-in; people can explore the sample and computer inventory first. This is still a development preview rather than a stable release.
 - The current Mac installers are **Developer ID signed and notarized by Apple**, with stapled tickets and verified Gatekeeper acceptance. macOS may still show its normal first-open confirmation for downloaded apps. The Windows installer remains **unsigned**.
-- Mac launch, Google sign-in, account history synchronization, and persistence after restart have been verified. The Windows installer was built but has not yet been tested on a Windows computer.
+- Mac launch, Google sign-in, account history synchronization, and persistence after restart have been verified. A Windows user reported that the earlier installer installed and ran successfully; the icon-corrected v0.1.2 installer still needs a Windows installation check.
 - Apple silicon and Intel Mac installers are available. Intel launch on real Intel hardware remains untested. Windows ARM64 is not included.
 - Only public repositories on github.com and gitlab.com are supported. Private repositories cannot be inspected. Some tool versions and project setup steps require manual work.
 
